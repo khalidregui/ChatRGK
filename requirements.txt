@@ -1,0 +1,7 @@
+flask
+tensorflow
+re
+random
+pandas 
+json
+sklearn
